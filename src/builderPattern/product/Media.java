@@ -1,4 +1,4 @@
-package builderFactoryPattern.product;
+package builderPattern.product;
 
 import java.util.ArrayList;
 

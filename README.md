@@ -56,7 +56,7 @@
 
 public static final Singleton instance=new Singleton();此种模式可以在不改变API的情况下，改变我们对单例类的具体要求。
 
-五、建造者模式(builderFactoryPattern)
+五、建造者模式(builderPattern)
 
 四个要素
 

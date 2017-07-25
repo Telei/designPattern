@@ -1,4 +1,4 @@
-package builderFactoryPattern.product;
+package builderPattern.product;
 
 /**
  * Created by huangtinglei on 24/07/2017.

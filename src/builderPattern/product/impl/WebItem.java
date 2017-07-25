@@ -1,6 +1,6 @@
-package builderFactoryPattern.product.impl;
+package builderPattern.product.impl;
 
-import builderFactoryPattern.product.MediaItem;
+import builderPattern.product.MediaItem;
 
 /**
  * Created by huangtinglei on 24/07/2017.

@@ -1,9 +1,9 @@
-package builderFactoryPattern.bulider.impl;
+package builderPattern.bulider.impl;
 
-import builderFactoryPattern.bulider.MediaBuilder;
-import builderFactoryPattern.product.Media;
-import builderFactoryPattern.product.MediaItem;
-import builderFactoryPattern.product.impl.Book;
+import builderPattern.bulider.MediaBuilder;
+import builderPattern.product.Media;
+import builderPattern.product.MediaItem;
+import builderPattern.product.impl.Book;
 
 /**
  * Created by huangtinglei on 24/07/2017.

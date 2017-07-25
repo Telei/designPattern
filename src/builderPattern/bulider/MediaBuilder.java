@@ -1,7 +1,7 @@
-package builderFactoryPattern.bulider;
+package builderPattern.bulider;
 
-import builderFactoryPattern.product.Media;
-import builderFactoryPattern.product.MediaItem;
+import builderPattern.product.Media;
+import builderPattern.product.MediaItem;
 
 /**
  * Created by huangtinglei on 24/07/2017.

@@ -1,8 +1,8 @@
-package builderFactoryPattern.director;
+package builderPattern.director;
 
-import builderFactoryPattern.bulider.MediaBuilder;
-import builderFactoryPattern.product.Media;
-import builderFactoryPattern.product.MediaItem;
+import builderPattern.bulider.MediaBuilder;
+import builderPattern.product.Media;
+import builderPattern.product.MediaItem;
 
 import java.util.Iterator;
 import java.util.List;

@@ -1,10 +1,10 @@
-package builderFactoryPattern.client;
-import builderFactoryPattern.bulider.impl.BookBuilder;
-import builderFactoryPattern.bulider.impl.MagazineBuilder;
-import builderFactoryPattern.bulider.impl.WebSiteBuilder;
-import builderFactoryPattern.director.MediaDirector;
-import builderFactoryPattern.product.Media;
-import builderFactoryPattern.product.MediaItem;
+package builderPattern.client;
+import builderPattern.bulider.impl.BookBuilder;
+import builderPattern.bulider.impl.MagazineBuilder;
+import builderPattern.bulider.impl.WebSiteBuilder;
+import builderPattern.director.MediaDirector;
+import builderPattern.product.Media;
+import builderPattern.product.MediaItem;
 import junit.framework.TestCase;
 
 import java.util.Arrays;
