@@ -81,4 +81,4 @@ public static final Singleton instance=new Singleton();此种模式可以在不�
 
 深拷贝与浅拷贝。Object类的clone方法只会拷贝对象中的基本的数据类型，对于数组、容器对象、引用对象等都不会拷贝，这就是浅拷贝。如果要实现深拷贝，必须将原型模式中的数组、容器对象、引用对象等另行拷贝。
 PS：深拷贝与浅拷贝问题中，会发生深拷贝的有java中的8中基本类型以及他们的封装类型，另外还有String类型。其余的都是浅拷贝。
-参考文章：详解Java中的clone方法 -- 原型模式
+参考文章：详解Java中的clone方法 -- 原型模式(http://blog.csdn.net/zhangjg_blog/article/details/18369201)
